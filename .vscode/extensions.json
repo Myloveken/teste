@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "mtxr.sqltools-driver-pg",
+        "brunoventura.sqltools-athena-driver",
+        "mtxr.sqltools"
+    ]
+}
